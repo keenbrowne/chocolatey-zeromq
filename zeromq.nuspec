@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>bonsai.zeromq</id>
+    <version>4.0.4</version>
+    <title>ZeroMQ</title>
+    <authors>iMatrix Corp</authors>
+    <owners>keen</owners>
+    <licenseUrl>http://zeromq.org/area:licensing</licenseUrl>
+    <projectUrl>http://zeromq.org</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ZeroMQ is an embeddable networking library and concurrency framework.</description>
+    <summary>ZeroMQ is an embeddable networking library and concurrency framework.</summary>
+    <releaseNotes>http://zeromq.org/docs:changes-4-0-0</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>zeromq c++ native</tags>
+  </metadata>
+</package>
